@@ -40,9 +40,8 @@ This project is a visualizer tool that allows you to convert mathematical expres
 For any inquiries or feedback, please contact us at prakharrathore111@gmail.com . We appreciate your support and hope you find this visualizer tool helpful in your DSA journey.
 
 Thank you for using the Infix, Postfix, and Prefix Conversion Visualizer!
+
 ## 🔗 Links
-
-
-[![linkedin](https://www.linkedin.com/in/prakhar-kumar-singh/)](https://www.linkedin.com/)
+https://www.linkedin.com/in/prakhar-kumar-singh/
 
 
