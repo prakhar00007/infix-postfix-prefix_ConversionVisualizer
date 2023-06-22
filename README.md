@@ -41,13 +41,12 @@ This project is a visualizer tool that allows you to convert mathematical expres
 3. Version control with Git and hosted on GitHub.
 
 
-## Contact
 
-For any inquiries or feedback, please contact us at prakharrathore111@gmail.com . We appreciate your support and hope you find this visualizer tool helpful in your DSA journey.
+If you want to contact me, you can reach me through below handles.
 
-Thank you for using the Infix, Postfix, and Prefix Conversion Visualizer!
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prakhar-kumar-singh)
 
-## 🔗 Links
-https://www.linkedin.com/in/prakhar-kumar-singh/
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prakharrathore111@gmail.com)
+
 
 
