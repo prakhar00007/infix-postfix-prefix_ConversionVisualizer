@@ -31,7 +31,7 @@ https://github.com/prakhar00007/infix-postfix-prefix_ConversionVisualizer/assets
 - Visualize the step-by-step conversion process.
 - Analyze the output and understand the converted expression.
 
-## 📸Snapshots
+## 📸 Snapshots
 ![Screenshot 2023-06-23 023058](https://github.com/prakhar00007/infix-postfix-prefix_ConversionVisualizer/assets/92537028/f38aba4d-034f-4994-b998-724f196eb26f)
 
 <table>
