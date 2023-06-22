@@ -31,6 +31,21 @@ https://github.com/prakhar00007/infix-postfix-prefix_ConversionVisualizer/assets
 - Visualize the step-by-step conversion process.
 - Analyze the output and understand the converted expression.
 
+## 📸Snapshots
+![Screenshot 2023-06-23 023058](https://github.com/prakhar00007/infix-postfix-prefix_ConversionVisualizer/assets/92537028/f38aba4d-034f-4994-b998-724f196eb26f)
+
+<table>
+  <tr>
+    <td><img src="https://github.com/prakhar00007/infix-postfix-prefix_ConversionVisualizer/assets/92537028/4152382e-8697-4229-9d6e-4061c0b77a07" alt="Screenshot 2023-06-23 023947" /></td>
+    <td><img src="https://github.com/prakhar00007/infix-postfix-prefix_ConversionVisualizer/assets/92537028/d93eb61a-ce8a-4707-9aef-80c5780437fa" alt="Screenshot 2023-06-23 023824" /></td>
+  </tr>
+<tr>
+  <td><img src="https://github.com/prakhar00007/infix-postfix-prefix_ConversionVisualizer/assets/92537028/7b0ded5d-03b4-4254-b790-6a5db99578ca" alt="Screenshot 2023-06-23 023709" /></td>
+  <td><img src="https://github.com/prakhar00007/infix-postfix-prefix_ConversionVisualizer/assets/92537028/dff65e73-81ad-42b0-a0dd-2470fe0315d5" alt="Screenshot 2023-06-23 025620" /></td>
+</tr>
+</table>
+
+
 
 <h2>📬 Contact</h2>
 
