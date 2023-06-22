@@ -7,7 +7,13 @@
 
 https://github.com/prakhar00007/infix-postfix-prefix_ConversionVisualizer/assets/92537028/afdca5de-88fe-4cb0-b8f4-a43e5792d0ae
 
-## Features
+## ⚡Technologies Used
+
+- **HTML**, **CSS**, and **JavaScript** for the frontend interface.
+- Algorithmic logic implemented in **JavaScript**.
+- Version control with **Git** and hosted on **GitHub**.
+
+## 🚀Features
 
 - Interactive visualizer for infix-to-postfix and infix-to-prefix conversions.
 - Real-time rendering of the conversion process for better comprehension.
@@ -15,7 +21,7 @@ https://github.com/prakhar00007/infix-postfix-prefix_ConversionVisualizer/assets
 - Supports a wide range of mathematical operators and parentheses handling.
 - Ideal for educational purposes, algorithm analysis, and DSA learning.
 
-## Usage/Examples
+## 🏁 Getting Started
 
 - Clone the repository to your local machine.
 - Open the project in your preferred development environment.
@@ -24,14 +30,6 @@ https://github.com/prakhar00007/infix-postfix-prefix_ConversionVisualizer/assets
 - Choose the desired conversion (postfix or prefix).
 - Visualize the step-by-step conversion process.
 - Analyze the output and understand the converted expression.
-
-
-## Technologies Used
-
-- HTML, CSS, and JavaScript for the frontend interface.
-- Algorithmic logic implemented in JavaScript.
-- Version control with Git and hosted on GitHub.
-
 
 
 <h2>📬 Contact</h2>
