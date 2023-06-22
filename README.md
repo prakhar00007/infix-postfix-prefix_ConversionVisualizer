@@ -34,7 +34,7 @@ https://github.com/prakhar00007/infix-postfix-prefix_ConversionVisualizer/assets
 
 <h2>📬 Contact</h2>
 
-If you want to contact me, you can reach me through below handles.
+**If you want to contact me, you can reach me through below handles**
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prakhar-kumar-singh)
 
