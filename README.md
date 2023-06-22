@@ -1,5 +1,5 @@
 
-# Infix, Postfix, and Prefix Conversion Visualizer
+# **Infix, Postfix and Prefix Conversion Visualizer**
 
 **https://prakhar00007.github.io/infix-postfix-prefix_ConversionVisualizer/**
 
