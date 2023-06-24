@@ -15,11 +15,13 @@ https://github.com/prakhar00007/infix-postfix-prefix_ConversionVisualizer/assets
 
 ## 🚀Features
 
-- Interactive visualizer for infix-to-postfix and infix-to-prefix conversions.
-- Real-time rendering of the conversion process for better comprehension.
+- Interactive visualizer for converting mathematical expressions between infix, postfix, and prefix notations.
+- Real-time rendering of the conversion process for enhanced comprehension.
 - User-friendly interface with intuitive controls and clear instructions.
-- Supports a wide range of mathematical operators and parentheses handling.
-- Ideal for educational purposes, algorithm analysis, and DSA learning.
+- Supports a wide range of mathematical operators and efficient handling of parentheses.
+- Ideal for educational purposes, algorithm analysis, and learning data structures and algorithms.
+
+(Note: The tool enables conversion between all three notations - infix, postfix, and prefix.)
 
 ## 🏁 Getting Started
 
